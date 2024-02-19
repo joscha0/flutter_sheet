@@ -1,7 +1,7 @@
-name: sheet
+name: flutter_sheet
 description: A fully customizable draggable bottom sheet.
 version: 1.0.0-pre
-homepage: https://github.com/jamesblasco/modal_bottom_sheet
+homepage: https://github.com/joscha0/flutter_sheet
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
