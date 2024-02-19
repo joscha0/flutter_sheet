@@ -13,7 +13,7 @@ It allows to add a [Sheet] widget to any page or push a new [SheetRoute] to your
 Add the sheet package to your pubspec.yaml
 
 ```yaml
-flutter_sheet:
+sheet:
   git: https://github.com/joscha0/flutter_sheet
 ```
 
